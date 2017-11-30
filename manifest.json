@@ -3,18 +3,18 @@
     "name": "studystackapp",
     "icons": [
       {
-        "src": "launcher-icon-1x.ico",
-        "type": "image/ico",
+        "src": "launcher-icon-1x.png",
+        "type": "image/png",
         "sizes": "48x48"
       },
       {
-        "src": "launcher-icon-2x.ico",
-        "type": "image/ico",
+        "src": "launcher-icon-2x.png",
+        "type": "image/png",
         "sizes": "96x96"
       },
       {
-        "src": "launcher-icon-4x.ico",
-        "type": "image/ico",
+        "src": "launcher-icon-4x.png",
+        "type": "image/png",
         "sizes": "192x192"
       }
     ],
